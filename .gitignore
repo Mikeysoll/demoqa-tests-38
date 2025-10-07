@@ -1,30 +1,16 @@
+HELP.md
+build/
 !**/src/main/**
 !**/src/test/**
 
-### Gradle ###
-.gradle/
-build/
-out/
-
 ### IntelliJ IDEA ###
-.idea/
+.idea
 *.iws
 *.iml
 *.ipr
 
-### OS ###
-.DS_Store
-Thumbs.db
+### Gradle ###
+.gradle
 
 ### Logs ###
 *.log
-
-### Java ###
-*.class
-*.jar
-*.war
-*.ear
-
-### Temp ###
-*.swp
-*~
